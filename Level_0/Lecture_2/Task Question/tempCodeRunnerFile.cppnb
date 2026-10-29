@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+// using namespace std;
+
+// int main()
+// {
+//     char a;
+//     cout << "Enter a char: ";
+//     if (!(cin >> a))
+//     {
+//         cout << "Invalid input";
+//         return 0;
+//     }
+
+//     if (!isalpha(a))
+//     {
+//         cout << "Invalid";
+//     }
+//     else if (islower(a))
+//     {
+//         cout << "Lowercase";
+//     }
+//     else
+//     {
+//         cout << "uppercase";
+//     }
+//     return 0;
+// }
