@@ -1,2 +1,18 @@
-.vscode
-/Code Snippit
+# C++ executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
