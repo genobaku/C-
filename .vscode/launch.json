@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/2026/Learning/C++",
-      "program": "d:/Programming/2026/Learning/C++/build/Debug/outDebug",
+      "cwd": "d:/Programming/2026/Learning/C++/Level_1/leacture_3/Pratice_questions",
+      "program": "d:/Programming/2026/Learning/C++/Level_1/leacture_3/Pratice_questions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
